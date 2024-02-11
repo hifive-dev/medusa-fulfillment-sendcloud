@@ -9281,6 +9281,13 @@ medusa-react@^9.0.13:
   dependencies:
     "@medusajs/medusa-js" "*"
 
+medusa-react@^9.0.15:
+  version "9.0.15"
+  resolved "https://registry.yarnpkg.com/medusa-react/-/medusa-react-9.0.15.tgz#0552c49b3944637120cf54970e7ee920fc79f350"
+  integrity sha512-oG3kcNlEElIxY/kA2iFXOalWAsh+9OHtZ+YahCSi8/TbJbV1TikiQXBsuUBnFQqJElQxzLKfRQRUIHHJaLqA4Q==
+  dependencies:
+    "@medusajs/medusa-js" "*"
+
 medusa-telemetry@^0.0.17:
   version "0.0.17"
   resolved "https://registry.yarnpkg.com/medusa-telemetry/-/medusa-telemetry-0.0.17.tgz#44e434307d7078491fb0bddb47883e6af7ec0ba2"
