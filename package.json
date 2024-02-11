@@ -1,5 +1,5 @@
 {
-  "name": "medusa-fulfilment-sendcloud",
+  "name": "medusa-fulfillment-sendcloud",
   "version": "1.0.0",
   "description": "A MedusaJS plugin integrating the SendCloud platform used for managing shipping duties.",
   "author": "Hifive Dev (https://hifive.dev)",
