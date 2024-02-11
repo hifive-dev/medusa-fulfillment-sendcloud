@@ -14,7 +14,11 @@
     "headless",
     "medusa",
     "plugin",
-    "integration"
+    "integration",
+    "medusa-plugin-shipping",
+    "medusa-plugin-storefront",
+    "medusa-plugin-admin",
+    "medusa-plugin"
   ],
   "files": [
     "dist"
