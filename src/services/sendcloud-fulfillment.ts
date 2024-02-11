@@ -19,11 +19,11 @@ class SendcloudFulfillmentService extends AbstractFulfillmentService {
   };
 
   constructor(
-    container: MedusaContainer,
-    { orderService }: any,
-    options: { token: any }
+      container: MedusaContainer,
+      { orderService }: any,
+      options: { token: any }
   ) {
-    super(container);
+    super(container as unknown as Record<string, unknown>);
     this.orderService_ = orderService;
     this.options_ = options;
   }
